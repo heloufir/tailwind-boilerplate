@@ -29,4 +29,4 @@ yarn dev
 yarn build
 ```
 
-> You can refer to the source repository ((hasinhayder/tailwind-boilerplate)[https://github.com/hasinhayder/tailwind-boilerplate]) for more details
+> You can refer to the source repository https://github.com/hasinhayder/tailwind-boilerplate for more details
