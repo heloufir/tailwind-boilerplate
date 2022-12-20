@@ -24,7 +24,7 @@ yarn
 yarn dev
 ```
 
-### build
+### 3. Build
 ```sh
 yarn build
 ```
